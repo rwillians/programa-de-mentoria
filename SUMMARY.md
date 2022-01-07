@@ -25,7 +25,7 @@
 
 * [Tipo, é o seguinte...](parte-3/tipo-e-o-seguinte....md)
 * [Catequem?! Catequese ???](parte-3/catequem-catequese.md)
-* [Cê ta mais desorientado que o objeto](parte-3/ce-ta-mais-desorientado-que-o-objeto.md)
+* [Cê ta mais desorientado que esse objeto](parte-3/ce-ta-mais-desorientado-que-esse-objeto.md)
 * [Patrão de Projeto](parte-3/patrao-de-projeto.md)
 * [Liskov?! É vodka isso?](parte-3/liskov-e-vodka-isso.md)
 * [Cadê meu cachê?](parte-3/cade-meu-cache.md)
