@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdução](README.md)
+* [Orientação](README.md)
 
 ## Parte 1
 
