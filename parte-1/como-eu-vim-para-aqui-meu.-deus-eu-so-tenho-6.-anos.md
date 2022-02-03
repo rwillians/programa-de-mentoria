@@ -56,4 +56,4 @@ Para mim, e para muitos (caso não seja unânime), a principal caracteristica da
 
 ### Web2
 
-wip
+We'll stick to Web1 for now. Next sessions we'll basically implement what Tim created that made Web1 work as we know it. After that, we'll get back to Web2.
